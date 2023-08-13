@@ -15,3 +15,5 @@ I learn a lot of stuff realated to data science skills. This bootcamp has 10 spr
 - Python programming
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me on LinkedIn https://www.linkedin.com/in/kittinat-tangvijitjankarn-172547272/
