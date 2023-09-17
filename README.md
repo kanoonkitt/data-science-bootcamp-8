@@ -10,7 +10,7 @@ I learn a lot of stuff realated to data science skills. This bootcamp has 10 spr
 - R Programming
 - Data Transformation
 - Data Visualization
-- Essential Statistics for Data Analyst\
+- Essential Statistics for Data Analyst
 - Essential Machine Learning for Data Analyst
 - Python programming
 - Essential Python for Data Analyst
